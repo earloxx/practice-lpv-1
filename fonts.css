@@ -1,0 +1,302 @@
+/* Header Font Classes */
+.header-2xl {
+  font-size: 90px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 130%;
+  letter-spacing: -2.25px;
+}
+
+.header-xl {
+  font-size: 67px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 130%;
+  letter-spacing: -1.675px;
+}
+
+.header-l {
+  font-size: 50px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 130%;
+  letter-spacing: -1px;
+}
+
+.header-m {
+  font-size: 38px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 130%;
+  letter-spacing: -0.76px;
+}
+
+.header-s {
+  font-size: 28px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 130%;
+  letter-spacing: -0.28px;
+}
+
+.header-xs {
+  font-size: 21px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 130%;
+}
+
+/* Body Font Classes */
+.body-xl {
+  font-size: 28px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 140%;
+}
+
+.body-l {
+  font-size: 21px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 150%;
+}
+.body-m {
+  font-size: 16px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 150%;
+}
+.body-s {
+  font-size: 14px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 160%;
+}
+
+/* Poppins  */
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Mulish  */
+.mulish-extralight {
+  font-family: "Mulish", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.mulish-light {
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.mulish-regular {
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mulish-medium {
+  font-family: "Mulish", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.mulish-semibold {
+  font-family: "Mulish", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.mulish-bold {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.mulish-extrabold {
+  font-family: "Mulish", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.mulish-black {
+  font-family: "Mulish", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.mulish-extrablack {
+  font-family: "Mulish", sans-serif;
+  font-weight: 1000;
+  font-style: normal;
+}
+
+.mulish-extralight-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.mulish-light-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.mulish-regular-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.mulish-medium-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.mulish-semibold-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.mulish-bold-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.mulish-extrabold-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.mulish-black-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.mulish-extrablack-italic {
+  font-family: "Mulish", sans-serif;
+  font-weight: 1000;
+  font-style: italic;
+}
